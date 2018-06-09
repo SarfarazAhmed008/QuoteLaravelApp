@@ -1,4 +1,4 @@
-# QuoteLaravelApp
+# Quote Laravel Application
 
 This is a quote posting platform where users can post their own quotes. They need to post it along with their email address and 
 name. After posting it, events will be fired for which they will get an email notification as a confirmation. User can view all quotes available into the application 

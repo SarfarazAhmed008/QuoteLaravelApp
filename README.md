@@ -12,6 +12,15 @@ Technology used: Laravel php framework, Mysql relational database, Javascript, B
 Mailtrap SMTP server is used for testing and viewing mails fired by the events. 
 
 
+![screenshot_2018-09-04 quote application](https://user-images.githubusercontent.com/21248324/45078917-028ba000-b113-11e8-8d70-1c86cf3b9d8f.png)
+
+For Mobile devices:
+
+![screenshot_2018-09-04 quote application 1](https://user-images.githubusercontent.com/21248324/45078914-015a7300-b113-11e8-8074-2f68c5f83dee.png)
+
+
+
+
 
 
 
